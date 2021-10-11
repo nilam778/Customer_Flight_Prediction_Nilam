@@ -14,3 +14,6 @@ The dataset contains the information of passengers boarding and onboarding infor
 
 
 ![enter image description here](https://github.com/nilam778/Customer_Flight_Prediction_Nilam/blob/main/Image2.png?raw=true)
+
+
+good
